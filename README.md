@@ -4,6 +4,11 @@ Seong Jae Hwang, Zirui Tao, Won Hwa Kim, Vikas Singh, "Conditional Recurrent Flo
 
 http://pitt.edu/~sjh95/
 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/18518338/120382498-b5ec4800-c2f1-11eb-9ffc-903f5f10f882.png" width="500" >
+</p>
+
 ## Code
 The code largely leverages an excellent repository for invertible architectures: [FrEIA](https://github.com/VLL-HD/FrEIA)
 1. Essential Dependencies:
